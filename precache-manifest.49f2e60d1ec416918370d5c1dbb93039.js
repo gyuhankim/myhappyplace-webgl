@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/myhappyplace_webgl/static/css/main.f8db1171.chunk.css"
   },
   {
-    "revision": "91dc52d9e96ab6e7599cdd52be42bcea",
+    "revision": "ce685deb974bd45ed2018a6c6baefbca",
     "url": "/myhappyplace_webgl/index.html"
   }
 ];

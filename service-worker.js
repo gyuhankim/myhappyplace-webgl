@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/myhappyplace_webgl/precache-manifest.2febcbc8e48fe78d3bbbed3ec5349710.js"
+  "/myhappyplace_webgl/precache-manifest.49f2e60d1ec416918370d5c1dbb93039.js"
 );
 
 workbox.clientsClaim();
